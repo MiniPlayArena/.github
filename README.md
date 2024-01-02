@@ -164,6 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+### Developers
 
 * [Julian Jones](https://github.com/NexInfinite)
 * [David Gasinski](https://github.com/david-gasinski)
