@@ -127,6 +127,7 @@ To run the server
 <!-- ROADMAP -->
 ## Roadmap
 
+- [ ] Better mobile support.
 - [ ] Implement addition games.
 - [ ] Implement a party chat system
 - [ ] Additional Themes
