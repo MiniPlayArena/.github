@@ -1,6 +1,5 @@
 # MiniPlayArena
 [![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -8,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MiniPlayArena/server/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">MiniPlayArena</h3>
@@ -177,8 +176,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MiniPlayArena/client.svg?style=for-the-badge
 [contributors-url]: https://github.com/MiniPlayArena/client/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/MiniPlayArena/client.svg?style=for-the-badge
-[stars-url]: https://github.com/MiniPlayArena/client/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MiniPlayArena/client.svg?style=for-the-badge
 [issues-url]: https://github.com/MiniPlayArena/client/issues
 [license-shield]: https://img.shields.io/github/license/MiniPlayArena/client.svg?style=for-the-badge
