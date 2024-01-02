@@ -1,12 +1,13 @@
 # MiniPlayArena
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors(client)][contributors-shield]][contributors-url-client]
+[![Contributors(server)][contributors-shield]][contributors-url-server]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MiniPlayArena/server/">
+  <a href="https://github.com/MiniPlayArena/client/">
     <img src="images/logo.png" alt="Logo">
   </a>
 
@@ -175,7 +176,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MiniPlayArena/client.svg?style=for-the-badge
-[contributors-url]: https://github.com/MiniPlayArena/client/graphs/contributors
+[contributors-url-client]: https://github.com/MiniPlayArena/client/graphs/contributors
+[contributors-url-server]: https://github.com/MiniPlayArena/server/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/MiniPlayArena/client.svg?style=for-the-badge
 [issues-url]: https://github.com/MiniPlayArena/client/issues
 [license-shield]: https://img.shields.io/github/license/MiniPlayArena/client.svg?style=for-the-badge
